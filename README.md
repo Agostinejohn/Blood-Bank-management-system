@@ -1,2 +1,13 @@
 # Blood-Bank-in-PHP
  blood bank system 
+Main Admin Panel : localhost/blood bank2/admin
+ADMIN : username = super admin
+        password = admin
+
+User's Login
+User: username = codeprojects	
+      password = 123456
+
+2nd Admin Panel ( from user's login )
+username = super admin
+password = admin
